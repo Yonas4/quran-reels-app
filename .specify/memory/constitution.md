@@ -1,50 +1,144 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+Sync Impact Report
+==================
+Version change: (new) → 1.0.0
+Modified principles: N/A (initial ratification)
+Added sections:
+  - Core Principles (6 principles)
+  - Non-Goals and Scope Boundaries
+  - Design Constraints
+  - Governance
+Removed sections: N/A (initial ratification)
+Templates requiring updates:
+  - .specify/templates/plan-template.md: ✅ compatible (generic Constitution Check)
+  - .specify/templates/spec-template.md: ✅ compatible (generic requirements)
+  - .specify/templates/tasks-template.md: ✅ compatible (generic task structure)
+  - .specify/templates/checklist-template.md: ✅ compatible (generic checklist)
+Follow-up TODOs: None
+-->
+
+# Quran Reels App Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### I. Reverence First
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+All features MUST respect the sanctity of the Quran. No distortion of
+Quranic text is permitted. No inappropriate visual or audio mixing is
+allowed. No entertainment-first design decisions shall be made. Every
+UI interaction, visual treatment, and audio pairing MUST honor the
+sacred nature of the content.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### II. Simplicity Over Complexity
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+The product MUST remain simple by design. Minimal steps to create a
+reel. No unnecessary user flows. Feature bloat MUST be avoided. Every
+addition MUST justify its necessity against a simpler alternative.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### III. Creation Tool, Not Social Network
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+The system is NOT a social platform in the MVP. No feeds, no comments,
+no likes, and no engagement loops. Focus MUST be on creation and export
+only. Social features remain explicitly out of scope until a future
+phase.
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
+### IV. Offline-first MVP Mindset
 
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
+The initial version MUST work without backend dependency where possible.
+Local data is preferred over remote data. Local video generation is
+preferred over cloud processing. Network unavailability MUST NOT block
+core creation workflows.
 
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+### V. Deterministic Output
+
+Given the same inputs (Ayah, Reciter, Template), output MUST be
+predictable and reproducible. No AI randomness in the MVP. No dynamic
+generation variations. Users MUST be able to reproduce the same reel
+from the same configuration.
+
+### VI. Performance Awareness
+
+Video generation MUST be optimized for mobile devices. Heavy rendering
+pipelines MUST be avoided. Lightweight composition strategies MUST be
+preferred. The app MUST remain responsive during video generation
+operations.
+
+## Non-Goals and Scope Boundaries
+
+### Explicitly Out of Scope (MVP)
+
+The following are NOT part of the initial system design:
+
+- Social feed or community features
+- AI-based ayah suggestion
+- Cloud rendering or backend video processing
+- User authentication systems
+- Monetization systems
+- Commenting, likes, or sharing inside the app
+
+### In Scope (Phase 1 MVP)
+
+- Surah and Ayah selection
+- Reciter selection
+- Template selection
+- Video generation (local)
+- Export MP4
+
+### Out of Scope (All Phases Until Explicitly Added)
+
+- Any system requiring real-time server sync
+- User-generated content platforms
+
+## Design Constraints
+
+### UI Constraints
+
+- Minimal and calm UI
+- No distracting animations
+- Typography MUST prioritize readability of Quran text
+
+### Data Constraints
+
+- Initial data MAY be local JSON or bundled assets
+- No dependency on external APIs in MVP
+
+### Video Constraints
+
+- Output format: MP4 only
+- Resolution optimized for mobile sharing (Reels format)
+
+### Architectural Constraints
+
+- Feature-based modular structure
+- Clean separation of concerns
+- Domain logic MUST be independent of UI and framework
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+This constitution is the supreme governing document for the Quran
+Reels App project. All specifications, plans, and implementation
+decisions MUST comply with the principles stated herein.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Amendment Procedure**: Amendments require documentation of the
+proposed change, rationale, and migration plan. Amendments MUST NOT
+contradict Core Principles without explicit ratification.
+
+**Versioning Policy**: Constitution versions follow semantic
+versioning. MAJOR for backward-incompatible principle removals or
+redefinitions. MINOR for new principles or materially expanded
+guidance. PATCH for clarifications, wording fixes, or non-semantic
+refinements.
+
+**Compliance Review**: All PRs and reviews MUST verify compliance with
+this constitution. Any complexity that contradicts a principle MUST be
+justified in the Complexity Tracking section of the implementation
+plan.
+
+**Evolution Strategy**: The system is expected to evolve in phases:
+1. MVP: Video creation tool only
+2. Enhancement: Templates + customization
+3. Intelligence: Optional AI assistance
+4. Platform: Optional community layer (future only, requires separate
+   governance amendment)
+
+**Version**: 1.0.0 | **Ratified**: 2026-05-07 | **Last Amended**: 2026-05-07

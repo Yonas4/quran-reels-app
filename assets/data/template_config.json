@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mosque",
+    "name": "Mosque",
+    "backgroundAssetPath": "assets/images/templates/template_mosque.png",
+    "textPosition": {
+      "x": 0.5,
+      "y": 0.5,
+      "maxWidth": 0.85,
+      "fontSize": 48.0,
+      "fontColor": "#FFFFFF",
+      "fontFamily": "ScheherazadeNew",
+      "textAlign": "center"
+    },
+    "description": "Peaceful mosque interior with serene lighting"
+  },
+  {
+    "id": "kaaba",
+    "name": "Kaaba",
+    "backgroundAssetPath": "assets/images/templates/template_kaaba.png",
+    "textPosition": {
+      "x": 0.5,
+      "y": 0.55,
+      "maxWidth": 0.80,
+      "fontSize": 44.0,
+      "fontColor": "#FFFFFF",
+      "fontFamily": "ScheherazadeNew",
+      "textAlign": "center"
+    },
+    "description": "Sacred Kaaba with golden calligraphy frame"
+  },
+  {
+    "id": "nature",
+    "name": "Nature",
+    "backgroundAssetPath": "assets/images/templates/template_nature.png",
+    "textPosition": {
+      "x": 0.5,
+      "y": 0.45,
+      "maxWidth": 0.90,
+      "fontSize": 46.0,
+      "fontColor": "#FFFFFF",
+      "fontFamily": "ScheherazadeNew",
+      "textAlign": "center"
+    },
+    "description": "Calm nature landscape with soft green tones"
+  }
+]

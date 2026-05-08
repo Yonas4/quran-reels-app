@@ -1,0 +1,41 @@
+name: quran_reels
+description: "Create short-form Quran video reels with verses, recitations, and visual templates."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  riverpod_annotation: ^2.6.1
+  ffmpeg_kit_flutter_new: ^4.1.0
+  just_audio: ^0.9.44
+  share_plus: ^10.1.4
+  path_provider: ^2.1.5
+  http: ^1.3.0
+  json_annotation: ^4.9.0
+  uuid: ^4.5.1
+  connectivity_plus: ^7.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.4.14
+  riverpod_generator: ^2.6.3
+  json_serializable: ^6.9.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/
+    - assets/images/templates/
+
+  fonts:
+    - family: ScheherazadeNew
+      fonts:
+        - asset: assets/fonts/ScheherazadeNew-Regular.ttf
