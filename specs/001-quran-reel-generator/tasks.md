@@ -27,12 +27,12 @@ description: "Task list for Quran Reel Generator MVP"
 
 **Purpose**: Project initialization and basic structure
 
-- [ ] T001 Create Flutter project with pubspec.yaml and configure dependencies (flutter_riverpod, ffmpeg_kit_flutter, just_audio, share_plus, path_provider, http, json_annotation) in pubspec.yaml
-- [ ] T002 Create project directory structure per implementation plan: lib/core/, lib/features/surah/, lib/features/reciter/, lib/features/template/, lib/features/reel/, lib/shared/, lib/assets/ in lib/
-- [ ] T003 [P] Configure app theme with minimal calm UI, Quran-optimized typography, and 9:16 preview dimensions in lib/core/theme/app_theme.dart
-- [ ] T004 [P] Define app constants (video resolution 1080x1920, FPS 30, CRF 18, codec settings) in lib/core/constants/app_constants.dart
-- [ ] T005 [P] Configure Flutter assets (fonts, JSON data files, template images) and register Scheherazade New font in pubspec.yaml
-- [ ] T006 Create app entry point with Riverpod provider scope and home screen shell in lib/main.dart
+- [x] T001 Create Flutter project with pubspec.yaml and configure dependencies (flutter_riverpod, ffmpeg_kit_flutter, just_audio, share_plus, path_provider, http, json_annotation) in pubspec.yaml
+- [x] T002 Create project directory structure per implementation plan: lib/core/, lib/features/surah/, lib/features/reciter/, lib/features/template/, lib/features/reel/, lib/shared/, lib/assets/ in lib/
+- [x] T003 [P] Configure app theme with minimal calm UI, Quran-optimized typography, and 9:16 preview dimensions in lib/core/theme/app_theme.dart
+- [x] T004 [P] Define app constants (video resolution 1080x1920, FPS 30, CRF 18, codec settings) in lib/core/constants/app_constants.dart
+- [x] T005 [P] Configure Flutter assets (fonts, JSON data files, template images) and register Scheherazade New font in pubspec.yaml
+- [x] T006 Create app entry point with Riverpod provider scope and home screen shell in lib/main.dart
 
 ---
 
@@ -42,28 +42,28 @@ description: "Task list for Quran Reel Generator MVP"
 
 **⚠️ CRITICAL**: No user story work can begin until this phase is complete
 
-- [ ] T007 [P] Create Surah domain entity with id, nameArabic, nameTransliteration, nameTranslation, ayahCount, revelationType, revelationOrder in lib/features/surah/domain/entities/surah.dart
-- [ ] T008 [P] Create Ayah domain entity with id, surahId, numberInSurah, textUthmani, juz, page in lib/features/surah/domain/entities/ayah.dart
-- [ ] T009 [P] Create SurahModel data model with fromJson/toJson in lib/features/surah/data/models/surah_model.dart
-- [ ] T010 [P] Create AyahModel data model with fromJson/toJson in lib/features/surah/data/models/ayah_model.dart
-- [ ] T011 [P] Create Reciter domain entity with id, name, audioBaseUrl, style in lib/features/reciter/domain/entities/reciter.dart
-- [ ] T012 [P] Create ReciterModel data model with fromJson/toJson in lib/features/reciter/data/models/reciter_model.dart
-- [ ] T013 [P] Create Template domain entity with id, name, backgroundAssetPath, textPosition (TextOverlayConfig), description in lib/features/template/domain/entities/template.dart
-- [ ] T014 [P] Create TemplateModel data model with fromJson/toJson in lib/features/template/data/models/template_model.dart
-- [ ] T015 [P] Create ReelConfig domain entity holding current wizard state (selectedSurah, selectedAyah, selectedReciter, selectedTemplate, currentStep, generatedVideoPath, isGenerating, generationProgress) in lib/features/reel/domain/entities/reel_config.dart
-- [ ] T016 [P] Create GeneratedReel domain entity with id, config, videoFilePath, createdAt, fileSizeBytes in lib/features/reel/domain/entities/generated_reel.dart
-- [ ] T017 [P] Create TextOverlayConfig value object with x, y, maxWidth, fontSize, fontColor, fontFamily, textAlign in lib/core/utils/text_overlay_config.dart
-- [ ] T018 Create bundled Quran data file: download and format Alquran Cloud Uthmani JSON as assets/data/quran_uthmani.json with Surah and Ayah structure
-- [ ] T019 [P] Create bundled Surah metadata file assets/data/surah_metadata.json with all 114 Surahs (Arabic names, transliteration, Ayah counts, revelation type)
-- [ ] T020 [P] Create reciter config file assets/data/reciter_config.json with 2-3 reciter entries (id, name, audioBaseUrl, style)
-- [ ] T021 [P] Create template config file assets/data/template_config.json with 3+ templates (id, name, backgroundAssetPath, textPosition config, description)
-- [ ] T022 [P] Add 3+ background template images (mosque, kaaba, nature) to assets/images/templates/
-- [ ] T023 Implement SurahRepository with getAllSurahs() and getSurahById() loading from bundled JSON in lib/features/surah/data/repositories/surah_repository.dart
-- [ ] T024 Implement AyahRepository with getAyahsBySurah() and getAyahById() loading from bundled JSON in lib/features/surah/data/repositories/surah_repository.dart (or separate ayah_repository.dart)
-- [ ] T025 [P] Implement ReciterRepository with getAllReciters() and getAudioUrl() loading from bundled JSON in lib/features/reciter/data/repositories/reciter_repository.dart
-- [ ] T026 [P] Implement TemplateRepository with getAllTemplates() and getTemplateById() loading from bundled JSON in lib/features/template/data/repositories/template_repository.dart
-- [ ] T027 Implement wizard state management with Riverpod Notifier (WizardNotifier with next/back/selectSurah/selectAyah/selectReciter/selectTemplate/canProceed methods) in lib/shared/providers/wizard_provider.dart
-- [ ] T028 [P] Create custom exception types (NetworkException, StorageException, CompositionException, ShareException, StateException) in lib/core/constants/app_exceptions.dart
+- [x] T007 [P] Create Surah domain entity with id, nameArabic, nameTransliteration, nameTranslation, ayahCount, revelationType, revelationOrder in lib/features/surah/domain/entities/surah.dart
+- [x] T008 [P] Create Ayah domain entity with id, surahId, numberInSurah, textUthmani, juz, page in lib/features/surah/domain/entities/ayah.dart
+- [x] T009 [P] Create SurahModel data model with fromJson/toJson in lib/features/surah/data/models/surah_model.dart
+- [x] T010 [P] Create AyahModel data model with fromJson/toJson in lib/features/surah/data/models/ayah_model.dart
+- [x] T011 [P] Create Reciter domain entity with id, name, audioBaseUrl, style in lib/features/reciter/domain/entities/reciter.dart
+- [x] T012 [P] Create ReciterModel data model with fromJson/toJson in lib/features/reciter/data/models/reciter_model.dart
+- [x] T013 [P] Create Template domain entity with id, name, backgroundAssetPath, textPosition (TextOverlayConfig), description in lib/features/template/domain/entities/template.dart
+- [x] T014 [P] Create TemplateModel data model with fromJson/toJson in lib/features/template/data/models/template_model.dart
+- [x] T015 [P] Create ReelConfig domain entity holding current wizard state (selectedSurah, selectedAyah, selectedReciter, selectedTemplate, currentStep, generatedVideoPath, isGenerating, generationProgress) in lib/features/reel/domain/entities/reel_config.dart
+- [x] T016 [P] Create GeneratedReel domain entity with id, config, videoFilePath, createdAt, fileSizeBytes in lib/features/reel/domain/entities/generated_reel.dart
+- [x] T017 [P] Create TextOverlayConfig value object with x, y, maxWidth, fontSize, fontColor, fontFamily, textAlign in lib/core/utils/text_overlay_config.dart
+- [x] T018 Create bundled Quran data file: download and format Alquran Cloud Uthmani JSON as assets/data/quran_uthmani.json with Surah and Ayah structure
+- [x] T019 [P] Create bundled Surah metadata file assets/data/surah_metadata.json with all 114 Surahs (Arabic names, transliteration, Ayah counts, revelation type)
+- [x] T020 [P] Create reciter config file assets/data/reciter_config.json with 2-3 reciter entries (id, name, audioBaseUrl, style)
+- [x] T021 [P] Create template config file assets/data/template_config.json with 3+ templates (id, name, backgroundAssetPath, textPosition config, description)
+- [x] T022 [P] Add 3+ background template images (mosque, kaaba, nature) to assets/images/templates/
+- [x] T023 Implement SurahRepository with getAllSurahs() and getSurahById() loading from bundled JSON in lib/features/surah/data/repositories/surah_repository.dart
+- [x] T024 Implement AyahRepository with getAyahsBySurah() and getAyahById() loading from bundled JSON in lib/features/surah/data/repositories/surah_repository.dart (or separate ayah_repository.dart)
+- [x] T025 [P] Implement ReciterRepository with getAllReciters() and getAudioUrl() loading from bundled JSON in lib/features/reciter/data/repositories/reciter_repository.dart
+- [x] T026 [P] Implement TemplateRepository with getAllTemplates() and getTemplateById() loading from bundled JSON in lib/features/template/data/repositories/template_repository.dart
+- [x] T027 Implement wizard state management with Riverpod Notifier (WizardNotifier with next/back/selectSurah/selectAyah/selectReciter/selectTemplate/canProceed methods) in lib/shared/providers/wizard_provider.dart
+- [x] T028 [P] Create custom exception types (NetworkException, StorageException, CompositionException, ShareException, StateException) in lib/core/constants/app_exceptions.dart
 
 **Checkpoint**: Foundation ready — domain entities, data models, repositories, wizard state all functional. User story implementation can now begin in parallel.
 
@@ -77,19 +77,19 @@ description: "Task list for Quran Reel Generator MVP"
 
 ### Implementation for User Story 1
 
-- [ ] T029 [P] [US1] Create Surah selection screen with scrollable list of 114 Surahs, search, and selection callback in lib/features/surah/presentation/screens/surah_selection_screen.dart
-- [ ] T030 [P] [US1] Create Ayah selection screen displaying Ayahs of selected Surah with Arabic text and selection in lib/features/surah/presentation/screens/ayah_selection_screen.dart
-- [ ] T031 [P] [US1] Create Reciter selection screen with list of 2-3 reciters and audio preview button (streamed via just_audio) in lib/features/reciter/presentation/screens/reciter_selection_screen.dart
-- [ ] T032 [P] [US1] Create Template selection screen with 3+ visual templates and selection preview in lib/features/template/presentation/screens/template_selection_screen.dart
-- [ ] T033 [US1] Implement wizard navigation flow connecting all 4 selection screens with back-navigation preserving state, using WizardProvider in lib/shared/providers/wizard_provider.dart
-- [ ] T034 [US1] Implement TextRenderer for Quranic Arabic text — render Uthmani text to transparent PNG using Flutter Canvas, Scheherazade New font, TextDirection.rtl, with TextOverlayConfig in lib/core/utils/quran_text_renderer.dart
-- [ ] T035 [US1] Implement VideoComposer using ffmpeg_kit_flutter — compose background image + text overlay PNG + reciter audio into 1080x1920 MP4 with deterministic encoding params in lib/core/utils/video_composer.dart
-- [ ] T036 [US1] Implement audio download/cache service for reciter audio — download audio file from URL to local path for FFmpeg input, with error handling for network failures in lib/features/reciter/data/repositories/audio_download_service.dart (or lib/core/utils/)
-- [ ] T037 [US1] Create Preview screen combining Ayah text overlay, template background, and streamed audio playback in lib/features/reel/presentation/screens/preview_screen.dart
-- [ ] T038 [US1] Create Generation screen with progress indicator showing video composition status, error handling, and retry capability in lib/features/reel/presentation/screens/generation_screen.dart
-- [ ] T039 [US1] Implement ExportService with saveToLocal() and shareVideo() using path_provider and share_plus in lib/features/reel/data/repositories/export_repository.dart (or lib/core/utils/export_service.dart)
-- [ ] T040 [US1] Create Export screen with save and share buttons, error handling for storage failures and permission denied in lib/features/reel/presentation/screens/export_screen.dart
-- [ ] T041 [US1] Wire complete end-to-end wizard flow in main.dart — home screen with "Create New Reel" button launches wizard, each step validates canProceed(), blocks generation if inputs missing
+- [x] T029 [P] [US1] Create Surah selection screen with scrollable list of 114 Surahs, search, and selection callback in lib/features/surah/presentation/screens/surah_selection_screen.dart
+- [x] T030 [P] [US1] Create Ayah selection screen displaying Ayahs of selected Surah with Arabic text and selection in lib/features/surah/presentation/screens/ayah_selection_screen.dart
+- [x] T031 [P] [US1] Create Reciter selection screen with list of 2-3 reciters and audio preview button (streamed via just_audio) in lib/features/reciter/presentation/screens/reciter_selection_screen.dart
+- [x] T032 [P] [US1] Create Template selection screen with 3+ visual templates and selection preview in lib/features/template/presentation/screens/template_selection_screen.dart
+- [x] T033 [US1] Implement wizard navigation flow connecting all 4 selection screens with back-navigation preserving state, using WizardProvider in lib/shared/providers/wizard_provider.dart
+- [x] T034 [US1] Implement TextRenderer for Quranic Arabic text — render Uthmani text to transparent PNG using Flutter Canvas, Scheherazade New font, TextDirection.rtl, with TextOverlayConfig in lib/core/utils/quran_text_renderer.dart
+- [x] T035 [US1] Implement VideoComposer using ffmpeg_kit_flutter — compose background image + text overlay PNG + reciter audio into 1080x1920 MP4 with deterministic encoding params in lib/core/utils/video_composer.dart
+- [x] T036 [US1] Implement audio download/cache service for reciter audio — download audio file from URL to local path for FFmpeg input, with error handling for network failures in lib/features/reciter/data/repositories/audio_download_service.dart (or lib/core/utils/)
+- [x] T037 [US1] Create Preview screen combining Ayah text overlay, template background, and streamed audio playback in lib/features/reel/presentation/screens/preview_screen.dart
+- [x] T038 [US1] Create Generation screen with progress indicator showing video composition status, error handling, and retry capability in lib/features/reel/presentation/screens/generation_screen.dart
+- [x] T039 [US1] Implement ExportService with saveToLocal() and shareVideo() using path_provider and share_plus in lib/features/reel/data/repositories/export_repository.dart (or lib/core/utils/export_service.dart)
+- [x] T040 [US1] Create Export screen with save and share buttons, error handling for storage failures and permission denied in lib/features/reel/presentation/screens/export_screen.dart
+- [x] T041 [US1] Wire complete end-to-end wizard flow in main.dart — home screen with "Create New Reel" button launches wizard, each step validates canProceed(), blocks generation if inputs missing
 
 **Checkpoint**: At this point, User Story 1 should be fully functional and testable independently — complete creation flow from Surah selection to MP4 export.
 
@@ -103,10 +103,10 @@ description: "Task list for Quran Reel Generator MVP"
 
 ### Implementation for User Story 2
 
-- [ ] T042 [US2] Implement AudioPreviewService with just_audio — play/pause/stop streaming audio from URL, stream position and duration, handle network errors gracefully in lib/features/reciter/data/services/audio_preview_service.dart
-- [ ] T043 [US2] Enhance Preview screen to render live preview composition: display background template image, overlay rendered Ayah text, stream reciter audio, show playback progress, handle audio completion in lib/features/reel/presentation/screens/preview_screen.dart
-- [ ] T044 [US2] Add back navigation from Preview to Template Selection while preserving all wizard selections in lib/features/reel/presentation/screens/preview_screen.dart and lib/shared/providers/wizard_provider.dart
-- [ ] T045 [US2] Add network connectivity error handling in Preview screen — display clear user-facing message when audio streaming fails, allow retry without losing selections
+- [x] T042 [US2] Implement AudioPreviewService with just_audio — play/pause/stop streaming audio from URL, stream position and duration, handle network errors gracefully in lib/features/reciter/data/services/audio_preview_service.dart
+- [x] T043 [US2] Enhance Preview screen to render live preview composition: display background template image, overlay rendered Ayah text, stream reciter audio, show playback progress, handle audio completion in lib/features/reel/presentation/screens/preview_screen.dart
+- [x] T044 [US2] Add back navigation from Preview to Template Selection while preserving all wizard selections in lib/features/reel/presentation/screens/preview_screen.dart and lib/shared/providers/wizard_provider.dart
+- [x] T045 [US2] Add network connectivity error handling in Preview screen — display clear user-facing message when audio streaming fails, allow retry without losing selections
 
 **Checkpoint**: User Stories 1 AND 2 should both work independently — full flow plus live preview before generation.
 
@@ -120,9 +120,9 @@ description: "Task list for Quran Reel Generator MVP"
 
 ### Implementation for User Story 3
 
-- [ ] T046 [US3] Implement local save functionality — copy generated MP4 to public storage directory using path_provider, handle write errors (disk full, permission denied) in lib/features/reel/data/repositories/export_repository.dart
-- [ ] T047 [US3] Implement share functionality using share_plus — trigger system share sheet with MP4 file attached in lib/features/reel/data/repositories/export_repository.dart
-- [ ] T048 [US3] Create polished Export screen UI with save button, share button, success/error feedback, and retry on failure without losing generated video in lib/features/reel/presentation/screens/export_screen.dart
+- [x] T046 [US3] Implement local save functionality — copy generated MP4 to public storage directory using path_provider, handle write errors (disk full, permission denied) in lib/features/reel/data/repositories/export_repository.dart
+- [x] T047 [US3] Implement share functionality using share_plus — trigger system share sheet with MP4 file attached in lib/features/reel/data/repositories/export_repository.dart
+- [x] T048 [US3] Create polished Export screen UI with save button, share button, success/error feedback, and retry on failure without losing generated video in lib/features/reel/presentation/screens/export_screen.dart
 
 **Checkpoint**: All user stories should now be independently functional — creation flow, preview, and export.
 
@@ -134,8 +134,8 @@ description: "Task list for Quran Reel Generator MVP"
 
 - [ ] T049 [P] Validate Quran text rendering accuracy — test Ayah text overlay with full tashkeel strings across all 114 Surahs to ensure no distortion, correct RTL rendering, and proper font sizing in lib/core/utils/quran_text_renderer.dart
 - [ ] T050 [P] Validate deterministic video output — generate video twice with same inputs and verify visual/audio equivalence (not byte-level) in lib/core/utils/video_composer.dart
-- [ ] T051 Add network connectivity awareness — detect offline state, disable preview/generate actions gracefully, show user-friendly error messages per FR-020 across relevant screens
-- [ ] T052 [P] Add input validation guards — block video generation (FR-017) if any selection is missing, show clear messages guiding user to complete the wizard step in lib/shared/providers/wizard_provider.dart
+- [x] T051 Add network connectivity awareness — detect offline state, disable preview/generate actions gracefully, show user-friendly error messages per FR-020 across relevant screens
+- [x] T052 [P] Add input validation guards — block video generation (FR-017) if any selection is missing, show clear messages guiding user to complete the wizard step in lib/shared/providers/wizard_provider.dart
 - [ ] T053 Performance optimization — profile video generation time on mid-range device, optimize text rendering and FFmpeg command parameters if >60 seconds in lib/core/utils/video_composer.dart
 - [ ] T054 [P] Add app icon and launch screen per minimal/calm UI design constraint in lib/core/theme/
 - [ ] T055 Run full acceptance scenario validation against spec.md User Story 1 acceptance scenarios 1-7
