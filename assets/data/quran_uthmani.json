@@ -1,0 +1,2066 @@
+[
+  {
+    "number": 1,
+    "name": "الفاتحة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 7,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": 1,
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِيمِ",
+        "juz": 1,
+        "page": 1
+      },
+      {
+        "number": 778,
+        "numberInSurah": 2,
+        "text": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَـٰلَمِينَ",
+        "juz": 1,
+        "page": 1
+      },
+      {
+        "number": 779,
+        "numberInSurah": 3,
+        "text": "ٱلرَّحۡمَـٰنِ ٱلرَّحِيمِ",
+        "juz": 1,
+        "page": 1
+      },
+      {
+        "number": 780,
+        "numberInSurah": 4,
+        "text": "مَـٰلِكِ يَوۡمِ ٱلدِّينِ",
+        "juz": 1,
+        "page": 1
+      },
+      {
+        "number": 781,
+        "numberInSurah": 5,
+        "text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+        "juz": 1,
+        "page": 1
+      },
+      {
+        "number": 782,
+        "numberInSurah": 6,
+        "text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+        "juz": 1,
+        "page": 1
+      },
+      {
+        "number": 783,
+        "numberInSurah": 7,
+        "text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "name": "البقرة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": 0,
+        "text": "TODO: Add Uthmani text for Surah 2 Ayah 0",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "name": "آل عمران",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -1,
+        "text": "TODO: Add Uthmani text for Surah 3 Ayah -1",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "name": "النساء",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -2,
+        "text": "TODO: Add Uthmani text for Surah 4 Ayah -2",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "name": "المائدة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -3,
+        "text": "TODO: Add Uthmani text for Surah 5 Ayah -3",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "name": "الأنعام",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -4,
+        "text": "TODO: Add Uthmani text for Surah 6 Ayah -4",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "name": "الأعراف",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -5,
+        "text": "TODO: Add Uthmani text for Surah 7 Ayah -5",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "name": "الأنفال",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -6,
+        "text": "TODO: Add Uthmani text for Surah 8 Ayah -6",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "name": "التوبة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -7,
+        "text": "TODO: Add Uthmani text for Surah 9 Ayah -7",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "name": "يونس",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -8,
+        "text": "TODO: Add Uthmani text for Surah 10 Ayah -8",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "name": "هود",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -9,
+        "text": "TODO: Add Uthmani text for Surah 11 Ayah -9",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "name": "يوسف",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -10,
+        "text": "TODO: Add Uthmani text for Surah 12 Ayah -10",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "name": "الرعد",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -11,
+        "text": "TODO: Add Uthmani text for Surah 13 Ayah -11",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "name": "إبراهيم",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -12,
+        "text": "TODO: Add Uthmani text for Surah 14 Ayah -12",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "name": "الحجر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -13,
+        "text": "TODO: Add Uthmani text for Surah 15 Ayah -13",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "name": "النحل",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -14,
+        "text": "TODO: Add Uthmani text for Surah 16 Ayah -14",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "name": "الإسراء",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -15,
+        "text": "TODO: Add Uthmani text for Surah 17 Ayah -15",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "name": "الكهف",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -16,
+        "text": "TODO: Add Uthmani text for Surah 18 Ayah -16",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "name": "مريم",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -17,
+        "text": "TODO: Add Uthmani text for Surah 19 Ayah -17",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "name": "طه",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -18,
+        "text": "TODO: Add Uthmani text for Surah 20 Ayah -18",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "name": "الأنبياء",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -19,
+        "text": "TODO: Add Uthmani text for Surah 21 Ayah -19",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "name": "الحج",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -20,
+        "text": "TODO: Add Uthmani text for Surah 22 Ayah -20",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "name": "المؤمنون",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -21,
+        "text": "TODO: Add Uthmani text for Surah 23 Ayah -21",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "name": "النور",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -22,
+        "text": "TODO: Add Uthmani text for Surah 24 Ayah -22",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "name": "الفرقان",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -23,
+        "text": "TODO: Add Uthmani text for Surah 25 Ayah -23",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "name": "الشعراء",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -24,
+        "text": "TODO: Add Uthmani text for Surah 26 Ayah -24",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "name": "النمل",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -25,
+        "text": "TODO: Add Uthmani text for Surah 27 Ayah -25",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "name": "القصص",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -26,
+        "text": "TODO: Add Uthmani text for Surah 28 Ayah -26",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "name": "العنكبوت",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -27,
+        "text": "TODO: Add Uthmani text for Surah 29 Ayah -27",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "name": "الروم",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -28,
+        "text": "TODO: Add Uthmani text for Surah 30 Ayah -28",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "name": "لقمان",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -29,
+        "text": "TODO: Add Uthmani text for Surah 31 Ayah -29",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "name": "السجدة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -30,
+        "text": "TODO: Add Uthmani text for Surah 32 Ayah -30",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "name": "الأحزاب",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -31,
+        "text": "TODO: Add Uthmani text for Surah 33 Ayah -31",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "name": "سبأ",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -32,
+        "text": "TODO: Add Uthmani text for Surah 34 Ayah -32",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "name": "فاطر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -33,
+        "text": "TODO: Add Uthmani text for Surah 35 Ayah -33",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "name": "يس",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -34,
+        "text": "TODO: Add Uthmani text for Surah 36 Ayah -34",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "name": "الصافات",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -35,
+        "text": "TODO: Add Uthmani text for Surah 37 Ayah -35",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "name": "ص",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -36,
+        "text": "TODO: Add Uthmani text for Surah 38 Ayah -36",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "name": "الزمر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -37,
+        "text": "TODO: Add Uthmani text for Surah 39 Ayah -37",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "name": "غافر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -38,
+        "text": "TODO: Add Uthmani text for Surah 40 Ayah -38",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "name": "فصلت",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -39,
+        "text": "TODO: Add Uthmani text for Surah 41 Ayah -39",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "name": "الشورى",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -40,
+        "text": "TODO: Add Uthmani text for Surah 42 Ayah -40",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "name": "الزخرف",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -41,
+        "text": "TODO: Add Uthmani text for Surah 43 Ayah -41",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "name": "الدخان",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -42,
+        "text": "TODO: Add Uthmani text for Surah 44 Ayah -42",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "name": "الجاثية",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -43,
+        "text": "TODO: Add Uthmani text for Surah 45 Ayah -43",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "name": "الأحقاف",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -44,
+        "text": "TODO: Add Uthmani text for Surah 46 Ayah -44",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "name": "محمد",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -45,
+        "text": "TODO: Add Uthmani text for Surah 47 Ayah -45",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "name": "الفتح",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -46,
+        "text": "TODO: Add Uthmani text for Surah 48 Ayah -46",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "name": "الحجرات",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -47,
+        "text": "TODO: Add Uthmani text for Surah 49 Ayah -47",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "name": "ق",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -48,
+        "text": "TODO: Add Uthmani text for Surah 50 Ayah -48",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "name": "الذاريات",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -49,
+        "text": "TODO: Add Uthmani text for Surah 51 Ayah -49",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "name": "الطور",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -50,
+        "text": "TODO: Add Uthmani text for Surah 52 Ayah -50",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "name": "النجم",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -51,
+        "text": "TODO: Add Uthmani text for Surah 53 Ayah -51",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "name": "القمر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -52,
+        "text": "TODO: Add Uthmani text for Surah 54 Ayah -52",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "name": "الرحمن",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -53,
+        "text": "TODO: Add Uthmani text for Surah 55 Ayah -53",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "name": "الواقعة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -54,
+        "text": "TODO: Add Uthmani text for Surah 56 Ayah -54",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "name": "الحديد",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -55,
+        "text": "TODO: Add Uthmani text for Surah 57 Ayah -55",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "name": "المجادلة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -56,
+        "text": "TODO: Add Uthmani text for Surah 58 Ayah -56",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "name": "الحشر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -57,
+        "text": "TODO: Add Uthmani text for Surah 59 Ayah -57",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "name": "الممتحنة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -58,
+        "text": "TODO: Add Uthmani text for Surah 60 Ayah -58",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 61,
+    "name": "الصف",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -59,
+        "text": "TODO: Add Uthmani text for Surah 61 Ayah -59",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 62,
+    "name": "الجمعة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -60,
+        "text": "TODO: Add Uthmani text for Surah 62 Ayah -60",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 63,
+    "name": "المنافقون",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -61,
+        "text": "TODO: Add Uthmani text for Surah 63 Ayah -61",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 64,
+    "name": "التغابن",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -62,
+        "text": "TODO: Add Uthmani text for Surah 64 Ayah -62",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 65,
+    "name": "الطلاق",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -63,
+        "text": "TODO: Add Uthmani text for Surah 65 Ayah -63",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 66,
+    "name": "التحريم",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -64,
+        "text": "TODO: Add Uthmani text for Surah 66 Ayah -64",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 67,
+    "name": "الملك",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -65,
+        "text": "TODO: Add Uthmani text for Surah 67 Ayah -65",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 68,
+    "name": "القلم",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -66,
+        "text": "TODO: Add Uthmani text for Surah 68 Ayah -66",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 69,
+    "name": "الحاقة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -67,
+        "text": "TODO: Add Uthmani text for Surah 69 Ayah -67",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 70,
+    "name": "المعارج",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -68,
+        "text": "TODO: Add Uthmani text for Surah 70 Ayah -68",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 71,
+    "name": "نوح",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -69,
+        "text": "TODO: Add Uthmani text for Surah 71 Ayah -69",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 72,
+    "name": "الجن",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -70,
+        "text": "TODO: Add Uthmani text for Surah 72 Ayah -70",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 73,
+    "name": "المزمل",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -71,
+        "text": "TODO: Add Uthmani text for Surah 73 Ayah -71",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 74,
+    "name": "المدثر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -72,
+        "text": "TODO: Add Uthmani text for Surah 74 Ayah -72",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 75,
+    "name": "القيامة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -73,
+        "text": "TODO: Add Uthmani text for Surah 75 Ayah -73",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 76,
+    "name": "الإنسان",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -74,
+        "text": "TODO: Add Uthmani text for Surah 76 Ayah -74",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 77,
+    "name": "المرسلات",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -75,
+        "text": "TODO: Add Uthmani text for Surah 77 Ayah -75",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 78,
+    "name": "النبأ",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -76,
+        "text": "TODO: Add Uthmani text for Surah 78 Ayah -76",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 79,
+    "name": "النازعات",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -77,
+        "text": "TODO: Add Uthmani text for Surah 79 Ayah -77",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 80,
+    "name": "عبس",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -78,
+        "text": "TODO: Add Uthmani text for Surah 80 Ayah -78",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 81,
+    "name": "التكوير",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -79,
+        "text": "TODO: Add Uthmani text for Surah 81 Ayah -79",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 82,
+    "name": "الانفطار",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -80,
+        "text": "TODO: Add Uthmani text for Surah 82 Ayah -80",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 83,
+    "name": "المطففين",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -81,
+        "text": "TODO: Add Uthmani text for Surah 83 Ayah -81",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 84,
+    "name": "الانشقاق",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -82,
+        "text": "TODO: Add Uthmani text for Surah 84 Ayah -82",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 85,
+    "name": "البروج",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -83,
+        "text": "TODO: Add Uthmani text for Surah 85 Ayah -83",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 86,
+    "name": "الطارق",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -84,
+        "text": "TODO: Add Uthmani text for Surah 86 Ayah -84",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 87,
+    "name": "الأعلى",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -85,
+        "text": "TODO: Add Uthmani text for Surah 87 Ayah -85",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 88,
+    "name": "الغاشية",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -86,
+        "text": "TODO: Add Uthmani text for Surah 88 Ayah -86",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 89,
+    "name": "الفجر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -87,
+        "text": "TODO: Add Uthmani text for Surah 89 Ayah -87",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 90,
+    "name": "البلد",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -88,
+        "text": "TODO: Add Uthmani text for Surah 90 Ayah -88",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 91,
+    "name": "الشمس",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -89,
+        "text": "TODO: Add Uthmani text for Surah 91 Ayah -89",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 92,
+    "name": "الليل",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -90,
+        "text": "TODO: Add Uthmani text for Surah 92 Ayah -90",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 93,
+    "name": "الضحى",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -91,
+        "text": "TODO: Add Uthmani text for Surah 93 Ayah -91",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 94,
+    "name": "الشرح",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -92,
+        "text": "TODO: Add Uthmani text for Surah 94 Ayah -92",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 95,
+    "name": "التين",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -93,
+        "text": "TODO: Add Uthmani text for Surah 95 Ayah -93",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 96,
+    "name": "العلق",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -94,
+        "text": "TODO: Add Uthmani text for Surah 96 Ayah -94",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 97,
+    "name": "القدر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -95,
+        "text": "TODO: Add Uthmani text for Surah 97 Ayah -95",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 98,
+    "name": "البينة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -96,
+        "text": "TODO: Add Uthmani text for Surah 98 Ayah -96",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 99,
+    "name": "الزلزلة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -97,
+        "text": "TODO: Add Uthmani text for Surah 99 Ayah -97",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 100,
+    "name": "العاديات",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -98,
+        "text": "TODO: Add Uthmani text for Surah 100 Ayah -98",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 101,
+    "name": "القارعة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -99,
+        "text": "TODO: Add Uthmani text for Surah 101 Ayah -99",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 102,
+    "name": "التكاثر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -100,
+        "text": "TODO: Add Uthmani text for Surah 102 Ayah -100",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 103,
+    "name": "العصر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -101,
+        "text": "TODO: Add Uthmani text for Surah 103 Ayah -101",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 104,
+    "name": "الهمزة",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -102,
+        "text": "TODO: Add Uthmani text for Surah 104 Ayah -102",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 105,
+    "name": "الفيل",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -103,
+        "text": "TODO: Add Uthmani text for Surah 105 Ayah -103",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 106,
+    "name": "قريش",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -104,
+        "text": "TODO: Add Uthmani text for Surah 106 Ayah -104",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 107,
+    "name": "الماعون",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -105,
+        "text": "TODO: Add Uthmani text for Surah 107 Ayah -105",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 108,
+    "name": "الكوثر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -106,
+        "text": "TODO: Add Uthmani text for Surah 108 Ayah -106",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 109,
+    "name": "الكافرون",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -107,
+        "text": "TODO: Add Uthmani text for Surah 109 Ayah -107",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 110,
+    "name": "النصر",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -108,
+        "text": "TODO: Add Uthmani text for Surah 110 Ayah -108",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 111,
+    "name": "المسد",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 1,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 1,
+        "numberInSurah": -109,
+        "text": "TODO: Add Uthmani text for Surah 111 Ayah -109",
+        "juz": 1,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "number": 112,
+    "name": "الإخلاص",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 4,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 6222,
+        "numberInSurah": 1,
+        "text": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+        "juz": 30,
+        "page": 604
+      },
+      {
+        "number": 6223,
+        "numberInSurah": 2,
+        "text": "ٱللَّهُ ٱلصَّمَدُ",
+        "juz": 30,
+        "page": 604
+      },
+      {
+        "number": 6224,
+        "numberInSurah": 3,
+        "text": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
+        "juz": 30,
+        "page": 604
+      },
+      {
+        "number": 6225,
+        "numberInSurah": 4,
+        "text": "وَلَمۡ يَكُن لَّهُ ۥ كُفُوًا أَحَدُۢ",
+        "juz": 30,
+        "page": 604
+      }
+    ]
+  },
+  {
+    "number": 113,
+    "name": "الفلق",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 5,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 6226,
+        "numberInSurah": 1,
+        "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ",
+        "juz": 30,
+        "page": 604
+      },
+      {
+        "number": 6227,
+        "numberInSurah": 2,
+        "text": "مِن شَرِّ مَا خَلَقَ",
+        "juz": 30,
+        "page": 604
+      },
+      {
+        "number": 6228,
+        "numberInSurah": 3,
+        "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+        "juz": 30,
+        "page": 604
+      },
+      {
+        "number": 6229,
+        "numberInSurah": 4,
+        "text": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلۡعُقَدِ",
+        "juz": 30,
+        "page": 604
+      },
+      {
+        "number": 6230,
+        "numberInSurah": 5,
+        "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "juz": 30,
+        "page": 604
+      }
+    ]
+  },
+  {
+    "number": 114,
+    "name": "الناس",
+    "englishName": "",
+    "englishNameTranslation": "",
+    "numberOfAyahs": 6,
+    "revelationType": "Meccan",
+    "ayahs": [
+      {
+        "number": 6231,
+        "numberInSurah": 1,
+        "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+        "juz": 30,
+        "page": 604
+      },
+      {
+        "number": 6232,
+        "numberInSurah": 2,
+        "text": "مَلِكِ ٱلنَّاسِ",
+        "juz": 30,
+        "page": 604
+      },
+      {
+        "number": 6233,
+        "numberInSurah": 3,
+        "text": "إِلَـٰهِ ٱلنَّاسِ",
+        "juz": 30,
+        "page": 604
+      },
+      {
+        "number": 6234,
+        "numberInSurah": 4,
+        "text": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
+        "juz": 30,
+        "page": 604
+      },
+      {
+        "number": 6235,
+        "numberInSurah": 5,
+        "text": "ٱلَّذِى يُوَسۡوِسُ فِى صُدُورِ ٱلنَّاسِ",
+        "juz": 30,
+        "page": 604
+      },
+      {
+        "number": 6236,
+        "numberInSurah": 6,
+        "text": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+        "juz": 30,
+        "page": 604
+      }
+    ]
+  }
+]

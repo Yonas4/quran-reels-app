@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mishary-alafasi",
+    "name": "Mishary Alafasi",
+    "audioBaseUrl": "https://cdn.islamic.network/quran/audio/128/mishari-alafasi/",
+    "style": "Murattal"
+  },
+  {
+    "id": "abdul-basit",
+    "name": "Abdul Basit",
+    "audioBaseUrl": "https://cdn.islamic.network/quran/audio/128/ar.abdulbasit.murattal/",
+    "style": "Murattal"
+  },
+  {
+    "id": "husary",
+    "name": "Mahmoud Khalil Al-Husary",
+    "audioBaseUrl": "https://cdn.islamic.network/quran/audio/128/ar.husary/",
+    "style": "Murattal"
+  }
+]
